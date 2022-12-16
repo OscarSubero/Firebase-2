@@ -15,7 +15,7 @@
     "semantic-ui-react": "^2.1.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://oscarsubero.github.io/Github-Api-Search",
+  "homepage": "https://oscarsubero.github.io/Firebase-2",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
